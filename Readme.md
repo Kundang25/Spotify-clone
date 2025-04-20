@@ -23,11 +23,17 @@ To view the project locally:
    git clone https://github.com/your-username/spotify-clone.git
 
 
-📸 Screenshots
+## 📸 Screenshots
+
+### Home Page UI
+
+![Spotify Clone UI](ss1.png)
+
+### Footer UI
+
+![Spotify Player Footer](ss2.png)
 
 
-![Spotify Clone UI](/Users/kundangupta/Documents/delta/spotify-clone/Screenshot 2025-04-20 at 4.29.22 PM.png)
-![Spotify Clone UI](/Users/kundangupta/Documents/delta/spotify-clone/Screenshot 2025-04-20 at 4.34.50 PM.png)
 
 
 
@@ -42,4 +48,6 @@ This project was created to practice front-end design skills and UI replication.
 📬 Contact
 For questions or feedback, feel free to reach out at:
 [Your Name] — [kg369033@gmail.com]
+
+
 GitHub: Kundang25
