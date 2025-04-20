@@ -21,3 +21,25 @@ To view the project locally:
 1. Clone the repository:
    ```bash
    git clone https://github.com/your-username/spotify-clone.git
+
+
+📸 Screenshots
+
+
+![Spotify Clone UI](/Users/kundangupta/Documents/delta/spotify-clone/Screenshot 2025-04-20 at 4.29.22 PM.png)
+![Spotify Clone UI](/Users/kundangupta/Documents/delta/spotify-clone/Screenshot 2025-04-20 at 4.34.50 PM.png)
+
+
+
+
+
+
+
+
+📚 Learning Purpose
+This project was created to practice front-end design skills and UI replication. Great for beginners wanting to improve their HTML/CSS layout skills.
+
+📬 Contact
+For questions or feedback, feel free to reach out at:
+[Your Name] — [kg369033@gmail.com]
+GitHub: Kundang25
